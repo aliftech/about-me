@@ -1,0 +1,15 @@
+.profile {
+    width: 150px;
+    height: auto;
+}
+
+@media screen and (max-width: 750px) {
+    .profile {
+        width: 75px;
+    }
+}
+
+.card {
+    margin-top: 10px;
+    padding: 10px;
+}
